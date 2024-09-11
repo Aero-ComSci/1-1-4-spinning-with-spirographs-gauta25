@@ -24,12 +24,14 @@ Objective: Write a Python program using the turtle module to draw a pattern of c
 
 
 4. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/728c751a6c4145bea0ea83c5058fb9f9#44b0003a2ee14fcc9865e7bb5faec747)
-5. Answer to step 21
 
-6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
+I inverted the code and flipped some numbers to get the turtle to make the desired output
+   Completed
+6. Answer to step 21
+   The psuedocode draws an infinite amount of circles spaced a definite distance and angle from each other if the user inputs 'y', and ends it in any other case.
+8. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 ![image](https://github.com/user-attachments/assets/db982102-612f-4593-ad5d-58b7e18bafe9)
    
-7. Give an example of an undecidable problem, attach code.
-   
-
+9. Give an example of an undecidable problem, attach code.
+An example of an undecidable problem is the problem of 
 
