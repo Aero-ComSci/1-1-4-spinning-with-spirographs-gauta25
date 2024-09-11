@@ -4,12 +4,13 @@
 *Complete the following.*
 
 1. Compare and contrast zero-iteration conditions and infinite loops.
-Zero iteration loops are loops that start from 0 and go to a specific value, this is most often seen in for loops. Infinite loops are usually white loops that run until something is completed, or forever.
+
+   Zero iteration loops are loops that start from 0 and go to a specific value, this is most often seen in for loops. Infinite loops are usually white loops that run until something is completed, or forever.
 
 
-3. A link to your code where you solve the following problem. Take the screen size of 800px. Create code or algorithm that always places the object(s), up to 5, in the center an equal distance from one another and from the edges of the screen.
+2. A link to your code where you solve the following problem. Take the screen size of 800px. Create code or algorithm that always places the object(s), up to 5, in the center an equal distance from one another and from the edges of the screen.
 
-I used t.teleport and set the turtle to be half the height and half the distance left from the origin, causing the squares to be perfectly in the middle. 
+   I used t.teleport and set the turtle to be half the height and half the distance left from the origin, causing the squares to be perfectly in the middle. 
 ![image](https://github.com/user-attachments/assets/8418431f-8c60-41fe-a684-cf9625bb382a)
 
 5. Concentric Squares -- Add a screenshot of your result and the code to create it on your repo.
