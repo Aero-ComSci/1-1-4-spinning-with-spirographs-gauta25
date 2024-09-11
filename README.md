@@ -10,11 +10,15 @@
 
 2. A link to your code where you solve the following problem. Take the screen size of 800px. Create code or algorithm that always places the object(s), up to 5, in the center an equal distance from one another and from the edges of the screen.
 
-   I used t.teleport and set the turtle to be half the height and half the distance left from the origin, causing the squares to be perfectly in the middle. 
+   I used t.teleport and set the turtle to be half the height and half the distance left from the origin, causing the squares to be perfectly in the middle.
 ![image](https://github.com/user-attachments/assets/8418431f-8c60-41fe-a684-cf9625bb382a)
 
-5. Concentric Squares -- Add a screenshot of your result and the code to create it on your repo.
+   I also made code for this using equadistant circles, the code is attached in circles.py in this repository.
+
+
+3. Concentric Squares -- Add a screenshot of your result and the code to create it on your repo.
 Objective: Write a Python program using the turtle module to draw a pattern of concentric squares. The pattern should be created using nested loops.
+
 ![image](https://github.com/user-attachments/assets/ff6e9421-de25-42e1-a640-e260a216fd26)
 
 
