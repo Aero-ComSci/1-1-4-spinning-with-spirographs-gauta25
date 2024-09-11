@@ -26,6 +26,7 @@ Objective: Write a Python program using the turtle module to draw a pattern of c
 7. Answer to step 21
 
 9. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
+![image](https://github.com/user-attachments/assets/db982102-612f-4593-ad5d-58b7e18bafe9)
    
 11. Give an example of an undecidable problem, attach code.
    
