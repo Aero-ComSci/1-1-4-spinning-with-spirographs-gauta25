@@ -17,19 +17,19 @@
    I also made code for this using equadistant circles, the code is attached in circles.py in this repository.
 
 
-4. Concentric Squares -- Add a screenshot of your result and the code to create it on your repo.
+3. Concentric Squares -- Add a screenshot of your result and the code to create it on your repo.
 Objective: Write a Python program using the turtle module to draw a pattern of concentric squares. The pattern should be created using nested loops.
-
+   <br>
 ![image](https://github.com/user-attachments/assets/ff6e9421-de25-42e1-a640-e260a216fd26)
 
 
-6. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/728c751a6c4145bea0ea83c5058fb9f9#44b0003a2ee14fcc9865e7bb5faec747)
-7. Answer to step 21
+4. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/728c751a6c4145bea0ea83c5058fb9f9#44b0003a2ee14fcc9865e7bb5faec747)
+5. Answer to step 21
 
-9. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
+6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 ![image](https://github.com/user-attachments/assets/db982102-612f-4593-ad5d-58b7e18bafe9)
    
-11. Give an example of an undecidable problem, attach code.
+7. Give an example of an undecidable problem, attach code.
    
 
 
