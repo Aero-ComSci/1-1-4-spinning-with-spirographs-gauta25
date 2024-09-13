@@ -27,11 +27,13 @@ Objective: Write a Python program using the turtle module to draw a pattern of c
 
 I inverted the code and flipped some numbers to get the turtle to make the desired output
    Completed
-6. Answer to step 21
+5. Answer to step 21
    The psuedocode draws an infinite amount of circles spaced a definite distance and angle from each other if the user inputs 'y', and ends it in any other case.
-8. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
+6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 ![image](https://github.com/user-attachments/assets/db982102-612f-4593-ad5d-58b7e18bafe9)
    
-9. Give an example of an undecidable problem, attach code.
-An example of an undecidable problem is the problem of 
+7. Give an example of an undecidable problem, attach code.
+An example of an undecidable problem is the problem of
+   If I had a while loop that never stopped, with an answer that was reached after the loop terminated, that would be an undecidable problem.
+   See the file undecidable.py. 
 
